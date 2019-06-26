@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\bin\Debug\HttpWebRequestHomeWork.exe.config
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\bin\Debug\HttpWebRequestHomeWork.exe
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\bin\Debug\HttpWebRequestHomeWork.pdb
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\App.g.cs
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork_MarkupCompile.cache
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork_MarkupCompile.lref
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\MainWindow.baml
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.g.resources
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.Properties.Resources.resources
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.exe
+C:\Users\Vlad\source\repos\HttpWebRequestHomeWork\HttpWebRequestHomeWork\obj\Debug\HttpWebRequestHomeWork.pdb
